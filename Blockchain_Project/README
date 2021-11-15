@@ -1,0 +1,9 @@
+Deniz Ece Aktaþ
+21626901
+
+Assumptions:
+I took one month as 30 days and six months as 182 days.
+I assumed that when getSalary or getDivided is used the 6 months of wait time doesn't reset.
+
+Note:
+I used pragma solidity >=0.7.0 <0.8.0 and compiler I used is 0.7.4+commit.3f05b770 .
